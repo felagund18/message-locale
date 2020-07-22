@@ -1,0 +1,3 @@
+auth.login = Login by email
+auth.login_failed = The email %s you have provided is not in our database
+auth.info = Your email is %[2]s, and your username is %[1]s
