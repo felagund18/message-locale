@@ -1,4 +1,4 @@
-module message-locale
+module github.com/felagund18/message-locale
 
 go 1.14
 
